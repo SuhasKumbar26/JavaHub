@@ -8,5 +8,4 @@ public class newLine {
         System.out.println("EveryOne");
         System.out.println("Nice to Meet you All");
     }
-
 }
