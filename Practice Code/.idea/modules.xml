@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1 introduction to java/1 introduction to java.iml" filepath="$PROJECT_DIR$/1 introduction to java/1 introduction to java.iml" />
       <module fileurl="file://$PROJECT_DIR$/2 Basics of java/2 Basics of java.iml" filepath="$PROJECT_DIR$/2 Basics of java/2 Basics of java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3 DataTypes Variables and input/3 DataTypes Variables and input.iml" filepath="$PROJECT_DIR$/3 DataTypes Variables and input/3 DataTypes Variables and input.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Practice Code.iml" filepath="$PROJECT_DIR$/.idea/Practice Code.iml" />
     </modules>
   </component>
